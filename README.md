@@ -1,0 +1,1 @@
+A simple dictionary application built using Python
